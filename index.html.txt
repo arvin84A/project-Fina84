@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <title>کافی‌شاپ آروین</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>کافی‌شاپ آروین</h1>
+        <nav>
+            <a href="#about">درباره ما</a>
+            <a href="#contact" onclick="alert('شماره تماس: 021201015')">تماس با ما</a>
+            <a href="#hours">ساعت کاری</a>
+        </nav>
+    </header>
+
+    <main>
+        <section id="about">
+            <h2>درباره ما</h2>
+            <p>کافی‌شاپ آروین، فضایی آرام و حرفه‌ای برای جلسات کاری و دورهمی‌های شما.</p>
+        </section>
+
+        <section id="hours">
+            <h2>ساعت کاری</h2>
+            <p>ما هر روز از ساعت <strong>۸ صبح تا ۲۴ شب</strong> در خدمت شما هستیم.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>کافی‌شاپ آروین | تمامی حقوق محفوظ است.</p>
+    </footer>
+</body>
+</html>
